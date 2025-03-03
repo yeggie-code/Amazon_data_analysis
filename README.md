@@ -48,9 +48,6 @@ The dataset contains the following key columns:
 3. **Run the provided scripts** for data cleaning, analysis, and visualization.
 4. **Interpret the visualizations** and derive actionable insights.
 
-## 📌 Next Steps
-- Analyze **seasonal trends** in pricing and discounts.
-- Investigate **brand-specific sales performance**.
-- Study the impact of **customer reviews on product rankings**.
+
 
 ---
